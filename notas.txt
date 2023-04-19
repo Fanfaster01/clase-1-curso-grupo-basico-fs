@@ -1,0 +1,2 @@
+git config --global user.name "Fanfaster01"
+git config --globa user.email programaionvdsl@gmail.com
